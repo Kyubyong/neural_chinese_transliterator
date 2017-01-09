@@ -51,8 +51,8 @@ Got&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     : 出手续在哪儿办�
 
 The training is quite fast. In my computer with a gtx 1080, the training reached the optimum in a couple of hours. Evaluations results are as follows. In both layouts, our models showed accuracy lower than SwiftKey by 0.5 - 0.7 points). Details are available in `results.csv`. 
 
-|Layout| Full Score | Our Model | SwiftKey 6.4.8.57 |
-|--|--|--|--|--|--|--|--|
+| Layout | Full Score | Our Model | SwiftKey 6.4.8.57 |
+|--- |--- |--- |--- |
 |QWERTY| 10880 | 9397 (=0.86 acc.) | 10106(=0.93 acc.)|
 |NINE| 10880 | 8383 (=0.77 acc.) | 8962(=0.82 acc.)|
 
@@ -69,6 +69,7 @@ The training is quite fast. In my computer with a gtx 1080, the training reached
 * For Nine, download the pre-trained model file [here](https://drive.google.com/open?id=0B0ZXk88koS2KRW94N1VveDdSekU) and extract it to `nine/asset/train/ckpt` folder.
 
 	
+
 
 
 
