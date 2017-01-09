@@ -1,0 +1,16 @@
+*.pyc
+asset/
+qwerty/
+nine/
+data/*.csv
+data/*.tsv
+data/*.txt
+data/qwerty/*
+!data/qwerty/vocab.pkl
+data/nine/*
+!data/nine/vocab.pkl
+_*
+*~
+*.odp
+
+
