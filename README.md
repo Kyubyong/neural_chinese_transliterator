@@ -1,3 +1,5 @@
+This is an ongoing project me and my colleagues from KakaoBrain.
+
 # Neural Chinese Transliterator—can you do better than SwiftKey™ Keyboard?
 
 In this project, we examine how well CNNs can transliterate Pinyin, the official romanization system for Chinese, into Chinese characters. The evaluation results for 1000 Chinese test sentences indicate that deep convolutional layers can quite easily and quickly learn to transliterate Pinyin to Chinese characters though our simple model failed to outperform SwiftKey™ keyboard.
