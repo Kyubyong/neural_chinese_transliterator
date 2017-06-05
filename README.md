@@ -9,6 +9,7 @@ Goal: Do research on the PTC task using the neural network
 * Publish
 
 Research members: Kyubyong Park, Sanghoon Hong, Taesup Kim
+
 Authorship: Equal contribution in principle
 
 Schedule and role
