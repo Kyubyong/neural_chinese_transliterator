@@ -21,6 +21,10 @@ Schedule and role
 * Blog writing (KST)
 * Administration (K)
 
+Target Conference
+* AAAI 2018 (Deadline: around September)
+* Most NLP conferences are overed (ACL, EMNLP ->next year)
+
 References:
 Keep updating!
 
