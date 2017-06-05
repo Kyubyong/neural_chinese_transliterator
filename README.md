@@ -3,22 +3,22 @@ This is an ongoing project me and my colleagues from KakaoBrain.
 Pinyin-To-Chinese Character
 
 Goal: Do research on the PTC task using the neural network
-Make the source code and data publicly available
-Write a paper
-Write a blog
-Publish
+* Make the source code and data publicly available
+* Write a paper
+* Write a blog
+* Publish
 
 Research members: Kyubyong Park, Sanghoon Hong, Taesup Kim
 Authorship: Equal contribution in principle
 
 Schedule and role
-Data management (K)
-Preliminary experiment (K)
-Code writing (ST)
-Paper writing (K: Outline ST: Body)
-Paper editing (ST)
-Blog writing (KST)
-Administration (K)
+* Data management (K)
+* Preliminary experiment (K)
+* Code writing (ST)
+* Paper writing (K: Outline ST: Body)
+* Paper editing (ST)
+* Blog writing (KST)
+* Administration (K)
 
 References:
 Keep updating!
