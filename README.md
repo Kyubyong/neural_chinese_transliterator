@@ -1,5 +1,32 @@
 This is an ongoing project me and my colleagues from KakaoBrain.
 
+Pinyin-To-Chinese Character
+
+Goal: Do research on the PTC task using the neural network
+Make the source code and data publicly available
+Write a paper
+Write a blog
+Publish
+
+Research members: Kyubyong Park, Sanghoon Hong, Taesup Kim
+Authorship: Equal contribution in principle
+
+Schedule and role
+Data management (K)
+Preliminary experiment (K)
+Code writing (ST)
+Paper writing (K: Outline ST: Body)
+Paper editing (ST)
+Blog writing (KST)
+Administration (K)
+
+References:
+Keep updating!
+
+
+
+ 
+
 # Neural Chinese Transliterator—can you do better than SwiftKey™ Keyboard?
 
 In this project, we examine how well CNNs can transliterate Pinyin, the official romanization system for Chinese, into Chinese characters. The evaluation results for 1000 Chinese test sentences indicate that deep convolutional layers can quite easily and quickly learn to transliterate Pinyin to Chinese characters though our simple model failed to outperform SwiftKey™ keyboard.
