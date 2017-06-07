@@ -26,7 +26,27 @@ Target Conference
 * Most NLP conferences are overed (ACL, EMNLP ->next year)
 
 References:
+[1] [Shaohua Yang, Hai Zhao, and Bao-liang Lu. 2012a. A Machine Translation Approach for Chinese Whole-Sentence Pinyin-to-Character Conversion.  In Proceedings of the 26th Pacific Asia Conference on Language, Information, and Computation
+, pages 333–342, Bali,Indonesia, November. Faculty of Computer Science, Universitas Indonesia.](www.aclweb.org/anthology/Y12-1036)
 Keep updating!
+
+FAQ
+* Do we cover both Chinese and Japanese, or Chinese only?
+  * K: I don't think we should decide it right now. We can start with Chinese, anyway.
+* Do we need to make a new dataset for this task?
+  * K: I think so. So far, I failed to find any publicly available benchmark dataset.
+* If so, how many training and test data are needed?
+  * K: At least 100K sentences for training and 1K for test. Desirably, 1M, 10K for training and test, respectively.
+* Which result(s) do we have a benchmark / benchmarks?
+  * K: Many commercial smartphone keyboards such as SwiftKey, Apple, Google, Sogou, etc.
+* Do we have to hire one or more assistants?
+  * K: Hopefully. Probably we need two Chinese assistants who will cross-check data.
+* What kinds of models do we have in mind currently?
+  * CTC loss
+  * seq2seq with attention
+  * labelling (used for preliminary experiment for chinese)
+  * bytenet (used for preliminary experiment for japanese)
+
 
 
 
