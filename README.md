@@ -31,7 +31,7 @@ Outputs: 我_爱_你_。
 ## Model Architecture
 * I applied a modified CBHG module introduced [Tacotron: Towards End-to-End Speech Synthesis](https://arxiv.org/abs/1703.10135).
 
-<img src="images/cbhg.jpg" align="middle"> 
+<img src="images/cbhg.png" align="middle"> 
 
 ## Training
 
