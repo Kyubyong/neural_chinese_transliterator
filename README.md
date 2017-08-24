@@ -29,7 +29,7 @@ Outputs: 我_爱_你_。
 * For evaluation, 1000 Chinese sentences were collected. See `data/input.csv`.
 
 ## Model Architecture
-* I applied a modified CBHG module introduced [Tacotron: Towards End-to-End Speech Synthesis](https://arxiv.org/abs/1703.10135).
+* I applied a modified CBHG module introduced in [Tacotron: Towards End-to-End Speech Synthesis](https://arxiv.org/abs/1703.10135).
 
 <img src="images/cbhg.png" align="middle"> 
 
