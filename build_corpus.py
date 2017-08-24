@@ -11,7 +11,7 @@ This code should generate a file which looks like this:
 In each line, the id, pinyin, and a chinese sentence are separated by a tab.
 Note that _ means blanks.
 
-Created in Jan. 2017, kyubyong. kbpark.linguist@gmail.com
+Created in Aug. 2017, kyubyong. kbpark.linguist@gmail.com
 """
 from __future__ import print_function
 import codecs
@@ -41,7 +41,7 @@ def align(sent):
     return pnyns, hanzis
 
 def clean(text):
-    if regex.search("[A-Za-z0-9]", text) is not None: # For simplicy, roman alphanumeric characters are removed.
+    if regex.search("[A-Za-z0-9]", text) is not None: # For simplicity, roman alphanumeric characters are removed.
         return ""
     text = regex.sub(u"[^ \p{Han}。，！？]", "", text)
     return text
@@ -67,5 +67,4 @@ def build_corpus():
                 i += 1
 
 if __name__ == "__main__":
-    build_corpus()
-    print("Done")
+    build_corpus(); print("Done")
