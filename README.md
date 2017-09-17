@@ -40,7 +40,7 @@ Outputs: 我_爱_你_。
 * STEP 3. Run `build_corpus.py` to build a Pinyin-Chinese parallel corpus.
 * STEP 4. Run `prepro.py` to make vocabulary and training data.
 * STEP 5. Adjust hyperparameters in hyperparams.py if necessary.
-* STEP 6. Run `train.py`. Or download the [pretrained files](https://u42868014.dl.dropboxusercontent.com/u/42868014/neural_chinese_transliterator/log.zip).
+* STEP 6. Run `train.py`. Or download the [pretrained files](https://www.dropbox.com/s/kdwlc400f9edmu8/log.zip?dl=0).
 
 ## Evaluation
 
