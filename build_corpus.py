@@ -19,6 +19,8 @@ import os
 import regex # pip install regex
 from xpinyin import Pinyin # pip install xpinyin 
 
+pinyin = Pinyin()
+
 def align(sent):
     '''
     Args:
@@ -26,8 +28,7 @@ def align(sent):
     
     Returns:
       A tuple of pinyin and chinese sentence.
-    '''
-    pinyin = Pinyin()
+    '''    
     pnyns = pinyin.get_pinyin(sent, " ").split()
     
     hanzis = []
